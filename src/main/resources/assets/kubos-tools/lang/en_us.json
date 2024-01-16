@@ -1,6 +1,6 @@
 {
-  "item.kubos-tools.sipp_cola": "SIPP Cola",
+  "block.kubos-tools.newports_bundle": "Compressed Newports Carton",
   "item.kubos-tools.newports": "Newports",
-
+  "item.kubos-tools.sipp_cola": "SIPP Cola",
   "itemGroup.kubos-tools.boiledinliquidshit": "Kubo's Tooltab"
 }

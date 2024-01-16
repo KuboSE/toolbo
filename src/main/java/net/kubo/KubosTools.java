@@ -2,6 +2,7 @@ package net.kubo;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kubo.block.ModBlocks;
 import net.kubo.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,5 +22,7 @@ public class KubosTools implements ModInitializer {
 
 		LOGGER.info("shit your own ass rn dawg");
 		ModItems.registerModItems();
+		LOGGER.info("SEVEN ELEVEN BIIIITCH IM HAULIN ASS");
+		ModBlocks.registerModBlocks();
 	}
 }
