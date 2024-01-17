@@ -17,12 +17,25 @@ public class KubosTools implements ModInitializer {
     public static final String MOD_ID = "kubos-tools";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
+	/**
+	 * "No one'll stand in my way this time!"
+	 * Added in Saccharum:
+	 * (items) SIPP Cola, Newports,
+	 * (blocks) Newports Block
+	 * (functionality) None
+	 *
+	 * "Retooling destiny."
+	 * To add in Cyanogen:
+	 * (items) Soulpowdered Iron, Soulpowdered Quartz Lamp, Jarred Crude Soul Crystal, Bowl of Soul Shards
+	 * (blocks) Soulpowdered Iron Block
+	 * (functionality) None
+	 */
 	@Override
 	public void onInitialize() {
 
-		LOGGER.info("shit your own ass rn dawg");
+		LOGGER.info("castleminer Z except I ate it");
 		ModItems.registerModItems();
-		LOGGER.info("SEVEN ELEVEN BIIIITCH IM HAULIN ASS");
+		LOGGER.info("Now featuring Feature Types!");
 		ModBlocks.registerModBlocks();
 	}
 }
