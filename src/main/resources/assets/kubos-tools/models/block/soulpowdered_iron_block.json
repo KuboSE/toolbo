@@ -1,5 +1,6 @@
 {
-  "variants": {
-    "": { "model": "kubos-tools:block/newports_bundle" }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kubos-tools:block/soulpowdered_iron_block"
   }
 }

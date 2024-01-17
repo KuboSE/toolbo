@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "kubos-tools:item/soulpowdered_iron"
+    "layer0": "kubos-tools:item/bowl_of_soul_shards"
   }
 }

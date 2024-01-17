@@ -1,6 +1,11 @@
 {
   "block.kubos-tools.newports_bundle": "Compressed Newports Carton",
+  "block.kubos-tools.soulpowdered_iron_block": "Soulpowdered Iron Block",
   "item.kubos-tools.newports": "Newports",
   "item.kubos-tools.sipp_cola": "SIPP Cola",
-  "itemGroup.kubos-tools.boiledinliquidshit": "Kubo's Tooltab"
+  "itemGroup.kubos-tools.boiledinliquidshit": "Kubo's Tooltab",
+  "item.kubos-tools.soulpowdered_iron": "Soulpowdered Iron Ingot",
+  "item.kubos-tools.soulpowdered_quartz_lamp": "Soulpowdered Quartz Lamp",
+  "item.kubos-tools.jarred_crude_soul_crystal": "Jarred Crude Soul Crystal",
+  "item.kubos-tools.bowl_of_soul_shards": "Bowl of Soul Shards"
 }

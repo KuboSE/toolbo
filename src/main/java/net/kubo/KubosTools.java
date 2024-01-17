@@ -25,10 +25,17 @@ public class KubosTools implements ModInitializer {
 	 * (functionality) None
 	 *
 	 * "Retooling destiny."
-	 * To add in Cyanogen:
+	 * Added:
 	 * (items) Soulpowdered Iron, Soulpowdered Quartz Lamp, Jarred Crude Soul Crystal, Bowl of Soul Shards
 	 * (blocks) Soulpowdered Iron Block
 	 * (functionality) None
+	 * TODO Waiting on textures for:
+	 * 	SOULPOWDERED_QUARTZ_LAMP
+	 * 	JARRED_CRUDE_SOUL_CRYSTAL
+	 * 	BOWL_OF_SOUL_SHARDS
+	 * 	BEWARE: SOULPOWDERED_QUARTZ_LAMP may be a block.
+	 * 	Block relates: create:rose_quartz_lamp
+	 *
 	 */
 	@Override
 	public void onInitialize() {

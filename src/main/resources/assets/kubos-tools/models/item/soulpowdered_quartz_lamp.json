@@ -1,5 +1,6 @@
 {
-  "variants": {
-    "": { "model": "kubos-tools:block/newports_bundle" }
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kubos-tools:item/soulpowdered_quartz_lamp"
   }
 }
