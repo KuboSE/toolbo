@@ -15,11 +15,13 @@ public class ModItems {
     public static final Item JARRED_CRUDE_SOUL_CRYSTAL = registerItem("jarred_crude_soul_crystal", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
     public static final Item BOWL_OF_SOUL_SHARDS = registerItem("bowl_of_soul_shards", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
 
-    // TODO
-    //  Recipes for Newports, Newports Compressed, SIPP Cola.
-    //  Newports: 3 Paper, 1 Blaze Powder, 1 Gunpowder, 1 Wheat
-    //  Newports Compressed is just nine Newports arranged in one.
-    //  SIPP Cola: Blaze powder, sugar, glass bottle.
+    /*
+     TODO
+      Recipes for Newports, Newports Compressed, SIPP Cola.
+      Newports: 3 Paper, 1 Blaze Powder, 1 Gunpowder, 1 Wheat
+      Newports Compressed is just nine Newports arranged in one.
+      SIPP Cola: Blaze powder, sugar, glass bottle.
+    */
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(KubosTools.MOD_ID, name), item);

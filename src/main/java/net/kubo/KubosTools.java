@@ -17,7 +17,7 @@ public class KubosTools implements ModInitializer {
     public static final String MOD_ID = "kubos-tools";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-	/**
+	/*
 	 * "No one'll stand in my way this time!"
 	 * Added in Saccharum:
 	 * (items) SIPP Cola, Newports,
