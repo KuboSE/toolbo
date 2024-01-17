@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "C": {
+      "item": "minecraft:gunpowder"
+    },
+    "D": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "ABA",
+    "ADA"
+  ],
+  "result": {
+    "item": "kubos-tools:newports"
+  }
+}

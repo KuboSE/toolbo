@@ -15,7 +15,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
 
-    public static final Block NEWPORTS_BUNDLE = registerBlock("newports_bundle", new Block(FabricBlockSettings.of(Material.WOOL).strength(4f).requiresTool()), ModItemGroup.BOILEDINLIQUIDSHIT);
+    public static final Block NEWPORTS_BUNDLE = registerBlock("newports_bundle", new Block(FabricBlockSettings.of(Material.CARPET).strength(.0005f).requiresTool()), ModItemGroup.BOILEDINLIQUIDSHIT);
     public static final Block SOULPOWDERED_IRON_BLOCK = registerBlock("soulpowdered_iron_block", new Block(FabricBlockSettings.of(Material.METAL).strength(5f).requiresTool()), ModItemGroup.BOILEDINLIQUIDSHIT);
     private static Block registerBlock(String name, Block block, ItemGroup tab){
         registerBlockItem(name, block, tab);

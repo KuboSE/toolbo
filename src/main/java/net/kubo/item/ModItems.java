@@ -17,10 +17,8 @@ public class ModItems {
 
     /*
      TODO
-      Recipes for Newports, Newports Compressed, SIPP Cola.
-      Newports: 3 Paper, 1 Blaze Powder, 1 Gunpowder, 1 Wheat
       Newports Compressed is just nine Newports arranged in one.
-      SIPP Cola: Blaze powder, sugar, glass bottle.
+      Make Soulpowdered Iron Block
     */
 
     private static Item registerItem(String name, Item item) {

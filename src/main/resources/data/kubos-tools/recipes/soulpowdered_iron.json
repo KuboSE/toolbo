@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubos-tools:soulpowdered_iron_block"
+    }
+  ],
+  "result": {
+    "item": "kubos-tools:soulpowdered_iron",
+    "count": 9
+  }
+}
