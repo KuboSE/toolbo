@@ -11,7 +11,6 @@ public class ModItems {
     public static final Item NEWPORTS = registerItem("newports", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
     // Cyanogen Items
     public static final Item SOULPOWDERED_IRON = registerItem("soulpowdered_iron", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
-    public static final Item SOULPOWDERED_QUARTZ_LAMP = registerItem("soulpowdered_quartz_lamp", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
     public static final Item JARRED_CRUDE_SOUL_CRYSTAL = registerItem("jarred_crude_soul_crystal", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
     public static final Item BOWL_OF_SOUL_SHARDS = registerItem("bowl_of_soul_shards", new Item(new FabricItemSettings().group(ModItemGroup.BOILEDINLIQUIDSHIT)));
 
